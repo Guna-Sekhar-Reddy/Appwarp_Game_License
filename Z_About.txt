@@ -1,0 +1,5 @@
+This is the appwarp, project which efficiently test the any license key limit providance to gaming company.
+This project is done using the k6 testing Tool.
+The license provided in this project limits the number of clients to 100, using k6 we scale the number of clients to more than 100 and check weather the license is really limiting to 100 clients.
+The log results are displayed in the warplog.log file in Logs folder.
+This license is the one of the real game rummy.
